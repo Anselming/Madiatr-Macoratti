@@ -1,0 +1,5 @@
+/home/thiago/Projects/Madiatr-Macoratti/obj/Debug/net6.0/Madiatr-Macoratti.csproj.AssemblyReference.cache
+/home/thiago/Projects/Madiatr-Macoratti/obj/Debug/net6.0/Madiatr-Macoratti.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiago/Projects/Madiatr-Macoratti/obj/Debug/net6.0/Madiatr-Macoratti.AssemblyInfoInputs.cache
+/home/thiago/Projects/Madiatr-Macoratti/obj/Debug/net6.0/Madiatr-Macoratti.AssemblyInfo.cs
+/home/thiago/Projects/Madiatr-Macoratti/obj/Debug/net6.0/Madiatr-Macoratti.csproj.CoreCompileInputs.cache

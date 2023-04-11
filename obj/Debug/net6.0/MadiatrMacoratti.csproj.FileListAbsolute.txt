@@ -1,0 +1,15 @@
+/home/thiago/Projects/Madiatr-Macoratti/obj/Debug/net6.0/MadiatrMacoratti.csproj.AssemblyReference.cache
+/home/thiago/Projects/Madiatr-Macoratti/obj/Debug/net6.0/MadiatrMacoratti.GeneratedMSBuildEditorConfig.editorconfig
+/home/thiago/Projects/Madiatr-Macoratti/obj/Debug/net6.0/MadiatrMacoratti.AssemblyInfoInputs.cache
+/home/thiago/Projects/Madiatr-Macoratti/obj/Debug/net6.0/MadiatrMacoratti.AssemblyInfo.cs
+/home/thiago/Projects/Madiatr-Macoratti/obj/Debug/net6.0/MadiatrMacoratti.csproj.CoreCompileInputs.cache
+/home/thiago/Projects/Madiatr-Macoratti/bin/Debug/net6.0/MadiatrMacoratti
+/home/thiago/Projects/Madiatr-Macoratti/bin/Debug/net6.0/MadiatrMacoratti.deps.json
+/home/thiago/Projects/Madiatr-Macoratti/bin/Debug/net6.0/MadiatrMacoratti.runtimeconfig.json
+/home/thiago/Projects/Madiatr-Macoratti/bin/Debug/net6.0/MadiatrMacoratti.dll
+/home/thiago/Projects/Madiatr-Macoratti/bin/Debug/net6.0/MadiatrMacoratti.pdb
+/home/thiago/Projects/Madiatr-Macoratti/obj/Debug/net6.0/MadiatrMacoratti.dll
+/home/thiago/Projects/Madiatr-Macoratti/obj/Debug/net6.0/refint/MadiatrMacoratti.dll
+/home/thiago/Projects/Madiatr-Macoratti/obj/Debug/net6.0/MadiatrMacoratti.pdb
+/home/thiago/Projects/Madiatr-Macoratti/obj/Debug/net6.0/MadiatrMacoratti.genruntimeconfig.cache
+/home/thiago/Projects/Madiatr-Macoratti/obj/Debug/net6.0/ref/MadiatrMacoratti.dll
